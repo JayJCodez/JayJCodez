@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayJCodez
 - 👀 I’m interested in Java, JavaScript, HTML, CSS,Kotlin, SQL, Python and AI
-- 🌱 I’m currently learning Computer Science
+- 🌱 Degree in Computer Science
 - 💞️ I’m looking to collaborate on all projects related to my topics on interest 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
